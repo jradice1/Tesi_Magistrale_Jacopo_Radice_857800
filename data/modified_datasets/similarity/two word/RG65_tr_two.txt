@@ -1,0 +1,7 @@
+automobile	car	3.92
+brother	monk	2.74
+car	journey	1.55
+coast	hill	1.26
+coast	forest	0.85
+asylum	monk	0.39
+cord	smile	0.02

@@ -1,0 +1,6 @@
+automobile	car	3.92
+coast	shore	3.6
+coast	hill	1.26
+coast	forest	0.85
+automobile	wizard	0.11
+cord	smile	0.02

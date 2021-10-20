@@ -1,0 +1,5 @@
+food	fruit	2.69
+car	journey	1.55
+coast	hill	1.26
+coast	forest	0.85
+cord	smile	0.02

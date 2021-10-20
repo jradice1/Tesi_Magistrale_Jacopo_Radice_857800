@@ -1,0 +1,19 @@
+recorders	box	0.0	0	0	0	7	0	0	0	6.0	0.0	0.0
+recorders	official	0.29	0	7	1	7	0	1	0	6.0	0.0	0.0
+increasing	grow	8.29	10	9	9	5	7	9	7	3.0	8.0	9.0
+performing	church	0.22	0	1	0	1	0	0	0	6.0	0.0	0.0
+intelligence	agency	2.0	1	3	2	2	0	0	0	6.0	5.0	
+establishment	organization	8.4	9	9	8	6	10	8	7	10.0	8.0	10.0
+establishment	beginning	7.2	10	7	8	6	10	8	3	4.0	7.0	10.0
+engineering	plan	7.62	9	10	8	4	7	9	6	6.0	7.0	9.0
+management	administration	7.33	7	7	9	8	6	8	7	9.0	7.0	10.0
+management	finance	6.14	6	6	7	8	9	7	4	5.0	0.0	
+leadership	high	4.33	2	6	2	2	6	4	5	2.0	4.0	6.0
+considerable	significant	9.0	9	9	10	10	8	9	9	9.0	7.0	10.0
+designed	mental	1.25	4	1	2	2	7	0	1	0.0	6.0	0.0
+gathered	muster	8.4	8	6	6	9	10	6	9	10.0	9.0	7.0
+technology	science	7.5	10	9	1	8	8	10	7	8.0	3.0	5.0
+shoulders	raise	2.6	4	0	2	0	0	6	1	3.0	3.0	6.0
+receiving	fence	0.14	0	3	2	0	0	0	2	0.0	1.0	0.0
+consciousness	knowing	8.2	8	8	7	10	10	8	7	9.0	7.0	8.0
+consciousness	self	5.86	5	10	5	0	10	5	8	5.0	6.0	7.0

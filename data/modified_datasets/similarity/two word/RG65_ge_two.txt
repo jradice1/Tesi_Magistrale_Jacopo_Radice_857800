@@ -1,0 +1,7 @@
+automobile	car	3.92
+coast	shore	3.6
+food	fruit	2.69
+coast	hill	1.26
+coast	forest	0.85
+asylum	fruit	0.19
+cord	smile	0.02

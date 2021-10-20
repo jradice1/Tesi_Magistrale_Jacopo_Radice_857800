@@ -1,0 +1,29 @@
+brigadier	general	8.17	8	8	10	8	9	7	9	6.0	5.0	10.0
+nonpublic	private	10.0	10	10	10	10	10	10	8	10.0	9.0	10.0
+championship	status	4.6	5	1	5	4	3	0	8	6.0	7.0	0.0
+championship	contest	6.22	6	10	8	5	5	5	8	6.0	8.0	5.0
+recorders	box	0.0	0	0	0	7	0	0	0	6.0	0.0	0.0
+recorders	official	0.29	0	7	1	7	0	1	0	6.0	0.0	0.0
+increasing	up	6.4	9	8	6	6	7	9	5	3.0	9.0	0.0
+performance	musical	6.83	10	9	1	7	7	7	8	5.0	4.0	7.0
+formations	flight	3.5	0	6	4	7	3	7	2	7.0	4.0	2.0
+formations	filing	6.6	10	9	2	7	6	8	2	8.0	4.0	0.0
+performing	church	0.22	0	1	0	1	0	0	0	6.0	0.0	0.0
+intelligence	agency	2.0	1	3	2	2	0	0	0	6.0	5.0	
+gardens	sink	0.0	2	2	0	0	0	3	0	0.0	0.0	0.0
+engineering	plan	7.62	9	10	8	4	7	9	6	6.0	7.0	9.0
+wilderness	bush	5.6	9	5	5	7	8	5	8	2.0	6.0	2.0
+sulfuric	process	2.25	2	5	0	2	3	5	0	2.0	0.0	
+management	administration	7.33	7	7	9	8	6	8	7	9.0	7.0	10.0
+management	finance	6.14	6	6	7	8	9	7	4	5.0	0.0	
+leadership	high	4.33	2	6	2	2	6	4	5	2.0	4.0	6.0
+designed	mental	1.25	4	1	2	2	7	0	1	0.0	6.0	0.0
+scrutiny	look	7.33	8	8	7	4	0	7	9	6.0	8.0	9.0
+arousal	desire	9.29	6	10	9	6	9	10	9	10.0	8.0	
+technology	science	7.5	10	9	1	8	8	10	7	8.0	3.0	5.0
+scheduled	program	7.29	7	9	7	5	8	8	5	6.0	8.0	7.0
+shoulders	thrust	0.38	2	0	1	0	0	5	0	3.0	0.0	0.0
+shoulders	raise	2.6	4	0	2	0	0	6	1	3.0	3.0	6.0
+affordable	cheap	8.22	8	4	7	9	9	7	7	9.0	9.0	9.0
+computer	expert	0.71	5	0	1	0	0	0	6	5.0	2.0	2.0
+poisoning	poison	9.62	9	10	9	10	10	7	10	9.0	10.0	6.0
