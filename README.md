@@ -13,9 +13,9 @@ In ccoha_methods, tutti i metodi più promettenti utilizzati sul testo oggetto d
 
 Nella cartella benchmarks sono presenti: 
 delete_missing_words, codice relativo alla cancellazione delle coppie o gruppi di parole non presenti nel corpus; 
-new_datasets, contentente il codice con il conteggio delle coppie o gruppi nel corpus e successiva creazione di 3 classi di dataset suddivisi per frequenza; vector_analysis, nel quale viene controllato l'intorno di alcune coppie di parole e i risultati di alcune analogie prese a campione;  
-word_embeddings_benchmarks, contentente il codice relativo ai benchmarks su analogie e similarità. N.B. è stato riportato per completezza, preferibilmente utilizzare localmente clonando la repository al link: https://github.com/kudkudak/word-embeddings-benchmarks
-benchmarks_results, codice per verificare i risultati e i delta dei benchmark effettuati in precedenza
+new_datasets, contentente il codice con il conteggio delle coppie o gruppi nel corpus e successiva creazione di 3 classi di dataset suddivisi per frequenza;  vector_analysis, nel quale viene controllato l'intorno di alcune coppie di parole e i risultati di alcune analogie prese a campione;  
+word_embeddings_benchmarks, contentente il codice relativo ai benchmarks su analogie e similarità. N.B. è stato riportato per completezza, preferibilmente utilizzare localmente clonando la repository al link: https://github.com/kudkudak/word-embeddings-benchmarks ; 
+benchmarks_results, codice per verificare i risultati e i delta dei benchmark effettuati in precedenza.
 
 Infine è presente il codice relativo al training di modelli Word2vec.
 
